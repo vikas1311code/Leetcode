@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vikas1311code/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vikas1311code/Leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vikas1311code/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0268-missing-number](https://github.com/vikas1311code/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vikas1311code/Leetcode/tree/master/0283-move-zeroes) |
 | [1732-find-the-highest-altitude](https://github.com/vikas1311code/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vikas1311code/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/vikas1311code/Leetcode/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vikas1311code/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -35,4 +37,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/vikas1311code/Leetcode/tree/master/1732-find-the-highest-altitude) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vikas1311code/Leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vikas1311code/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vikas1311code/Leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vikas1311code/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
