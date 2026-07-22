@@ -4,6 +4,7 @@ public:
         
         vector<int> res;
         k=k%nums.size();
+        
         for( int i =nums.size()-k; i<nums.size(); i++){
             res.push_back(nums[i]);
         }
