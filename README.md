@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/vikas1311code/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vikas1311code/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/vikas1311code/Leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2748-number-of-beautiful-pairs](https://github.com/vikas1311code/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/vikas1311code/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
 |  |
@@ -29,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/vikas1311code/Leetcode/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vikas1311code/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2748-number-of-beautiful-pairs](https://github.com/vikas1311code/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vikas1311code/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2748-number-of-beautiful-pairs](https://github.com/vikas1311code/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vikas1311code/Leetcode/tree/master/0268-missing-number) |
+| [2748-number-of-beautiful-pairs](https://github.com/vikas1311code/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/vikas1311code/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
 |  |
@@ -62,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vikas1311code/Leetcode/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [2748-number-of-beautiful-pairs](https://github.com/vikas1311code/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 <!---LeetCode Topics End-->
