@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vikas1311code/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vikas1311code/Leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/vikas1311code/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/vikas1311code/Leetcode/tree/master/0189-rotate-array) |
 | [0260-single-number-iii](https://github.com/vikas1311code/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/vikas1311code/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vikas1311code/Leetcode/tree/master/0283-move-zeroes) |
@@ -26,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vikas1311code/Leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vikas1311code/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vikas1311code/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/vikas1311code/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vikas1311code/Leetcode/tree/master/0283-move-zeroes) |
 | [2460-apply-operations-to-an-array](https://github.com/vikas1311code/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/vikas1311code/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vikas1311code/Leetcode/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vikas1311code/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/vikas1311code/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
