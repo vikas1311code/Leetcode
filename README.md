@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vikas1311code/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/vikas1311code/Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/vikas1311code/Leetcode/tree/master/0278-first-bad-version) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/vikas1311code/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vikas1311code/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/vikas1311code/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
