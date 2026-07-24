@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/vikas1311code/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/vikas1311code/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vikas1311code/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/vikas1311code/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2460-apply-operations-to-an-array](https://github.com/vikas1311code/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/vikas1311code/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/vikas1311code/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vikas1311code/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vikas1311code/Leetcode/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vikas1311code/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/vikas1311code/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2748-number-of-beautiful-pairs](https://github.com/vikas1311code/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vikas1311code/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Number Theory
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vikas1311code/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vikas1311code/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vikas1311code/Leetcode/tree/master/0268-missing-number) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/vikas1311code/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 ## Counting
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/vikas1311code/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vikas1311code/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/vikas1311code/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 ## Interactive
 |  |
 | ------- |
