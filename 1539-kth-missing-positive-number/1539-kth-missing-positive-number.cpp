@@ -9,15 +9,14 @@ public:
 
             if (i < arr.size() && arr[i] == num) {
                 i++;
+                num++;
             } else {
                 k--;
-                if (k == 0)
-                    return num;
+                num++;
+                
             }
-
-            num++;
         }
 
-        return -1;
+        return num-1;
     }
 };
