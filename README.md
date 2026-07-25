@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/vikas1311code/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/vikas1311code/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/vikas1311code/Leetcode/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/vikas1311code/Leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/vikas1311code/Leetcode/tree/master/0283-move-zeroes) |
 | [1539-kth-missing-positive-number](https://github.com/vikas1311code/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/vikas1311code/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vikas1311code/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/vikas1311code/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/vikas1311code/Leetcode/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/vikas1311code/Leetcode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/vikas1311code/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/vikas1311code/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/vikas1311code/Leetcode/tree/master/0633-sum-of-square-numbers) |
