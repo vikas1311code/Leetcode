@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vikas1311code/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/vikas1311code/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vikas1311code/Leetcode/tree/master/0283-move-zeroes) |
+| [0633-sum-of-square-numbers](https://github.com/vikas1311code/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2460-apply-operations-to-an-array](https://github.com/vikas1311code/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Math
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/vikas1311code/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/vikas1311code/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vikas1311code/Leetcode/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/vikas1311code/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vikas1311code/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/vikas1311code/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2748-number-of-beautiful-pairs](https://github.com/vikas1311code/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vikas1311code/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/vikas1311code/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/vikas1311code/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0633-sum-of-square-numbers](https://github.com/vikas1311code/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1539-kth-missing-positive-number](https://github.com/vikas1311code/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
