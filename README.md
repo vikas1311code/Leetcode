@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vikas1311code/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vikas1311code/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vikas1311code/Leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vikas1311code/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vikas1311code/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/vikas1311code/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vikas1311code/Leetcode/tree/master/0268-missing-number) |
 | [2748-number-of-beautiful-pairs](https://github.com/vikas1311code/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
