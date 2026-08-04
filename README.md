@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/vikas1311code/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/vikas1311code/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vikas1311code/Leetcode/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/vikas1311code/Leetcode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/vikas1311code/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vikas1311code/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/vikas1311code/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vikas1311code/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vikas1311code/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vikas1311code/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0509-fibonacci-number](https://github.com/vikas1311code/Leetcode/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -144,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/vikas1311code/Leetcode/tree/master/0274-h-index) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vikas1311code/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vikas1311code/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
