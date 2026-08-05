@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/vikas1311code/Leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/vikas1311code/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vikas1311code/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/vikas1311code/Leetcode/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/vikas1311code/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/vikas1311code/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/vikas1311code/Leetcode/tree/master/0274-h-index) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/vikas1311code/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/vikas1311code/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/vikas1311code/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/vikas1311code/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/vikas1311code/Leetcode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/vikas1311code/Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/vikas1311code/Leetcode/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vikas1311code/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/vikas1311code/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 ## Simulation
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/vikas1311code/Leetcode/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vikas1311code/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Counting Sort
 |  |
@@ -163,4 +167,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vikas1311code/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/vikas1311code/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vikas1311code/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vikas1311code/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vikas1311code/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vikas1311code/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
