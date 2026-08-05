@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vikas1311code/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/vikas1311code/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vikas1311code/Leetcode/tree/master/0283-move-zeroes) |
+| [0541-reverse-string-ii](https://github.com/vikas1311code/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/vikas1311code/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2460-apply-operations-to-an-array](https://github.com/vikas1311code/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Math
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vikas1311code/Leetcode/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0541-reverse-string-ii](https://github.com/vikas1311code/Leetcode/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
