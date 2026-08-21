@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vikas1311code/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/vikas1311code/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/vikas1311code/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/vikas1311code/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vikas1311code/Leetcode/tree/master/0268-missing-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/vikas1311code/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2748-number-of-beautiful-pairs](https://github.com/vikas1311code/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vikas1311code/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vikas1311code/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/vikas1311code/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vikas1311code/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/vikas1311code/Leetcode/tree/master/0274-h-index) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/vikas1311code/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vikas1311code/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/vikas1311code/Leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/vikas1311code/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/vikas1311code/Leetcode/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/vikas1311code/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vikas1311code/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1796-second-largest-digit-in-a-string](https://github.com/vikas1311code/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
