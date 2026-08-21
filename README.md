@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/vikas1311code/Leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/vikas1311code/Leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/vikas1311code/Leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/vikas1311code/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1539-kth-missing-positive-number](https://github.com/vikas1311code/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/vikas1311code/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vikas1311code/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
