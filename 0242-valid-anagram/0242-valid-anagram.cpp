@@ -4,6 +4,9 @@ public:
         vector<int> a(26,0);
         vector<int> b(26,0);
         int d;
+        if(s.size()!=t.size()){
+            return false;
+        }
         for(char c : s){
         d = c-'a';
         a[d]++;
